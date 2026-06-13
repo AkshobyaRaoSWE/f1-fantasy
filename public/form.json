@@ -1,0 +1,1396 @@
+{
+  "generated": "2026-05-09T23:06:56.402Z",
+  "season": 2026,
+  "schedule": [
+    {
+      "round": 1,
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "locality": "Melbourne",
+      "country": "Australia"
+    },
+    {
+      "round": 2,
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "locality": "Shanghai",
+      "country": "China"
+    },
+    {
+      "round": 3,
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "locality": "Suzuka",
+      "country": "Japan"
+    },
+    {
+      "round": 4,
+      "raceName": "Miami Grand Prix",
+      "date": "2026-05-03",
+      "locality": "Miami",
+      "country": "USA"
+    },
+    {
+      "round": 5,
+      "raceName": "Canadian Grand Prix",
+      "date": "2026-05-24",
+      "locality": "Montreal",
+      "country": "Canada"
+    },
+    {
+      "round": 6,
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "locality": "Monte Carlo",
+      "country": "Monaco"
+    },
+    {
+      "round": 7,
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
+      "locality": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "round": 8,
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
+      "locality": "Spielberg",
+      "country": "Austria"
+    },
+    {
+      "round": 9,
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "locality": "Silverstone",
+      "country": "UK"
+    },
+    {
+      "round": 10,
+      "raceName": "Belgian Grand Prix",
+      "date": "2026-07-19",
+      "locality": "Spa",
+      "country": "Belgium"
+    },
+    {
+      "round": 11,
+      "raceName": "Hungarian Grand Prix",
+      "date": "2026-07-26",
+      "locality": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "round": 12,
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "locality": "Zandvoort",
+      "country": "Netherlands"
+    },
+    {
+      "round": 13,
+      "raceName": "Italian Grand Prix",
+      "date": "2026-09-06",
+      "locality": "Monza",
+      "country": "Italy"
+    },
+    {
+      "round": 14,
+      "raceName": "Spanish Grand Prix",
+      "date": "2026-09-13",
+      "locality": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "round": 15,
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "locality": "Baku",
+      "country": "Azerbaijan"
+    },
+    {
+      "round": 16,
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "locality": "Marina Bay",
+      "country": "Singapore"
+    },
+    {
+      "round": 17,
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
+      "locality": "Austin",
+      "country": "USA"
+    },
+    {
+      "round": 18,
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "locality": "Mexico City",
+      "country": "Mexico"
+    },
+    {
+      "round": 19,
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "locality": "São Paulo",
+      "country": "Brazil"
+    },
+    {
+      "round": 20,
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
+      "locality": "Las Vegas",
+      "country": "USA"
+    },
+    {
+      "round": 21,
+      "raceName": "Qatar Grand Prix",
+      "date": "2026-11-29",
+      "locality": "Lusail",
+      "country": "Qatar"
+    },
+    {
+      "round": 22,
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2026-12-06",
+      "locality": "Abu Dhabi",
+      "country": "UAE"
+    }
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "country": "Australia",
+      "locality": "Melbourne",
+      "hasSprint": false,
+      "results": [
+        {
+          "driverNumber": 63,
+          "gridPosition": 1,
+          "finishPosition": 1,
+          "qualiPosition": 1,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 12,
+          "gridPosition": 2,
+          "finishPosition": 2,
+          "qualiPosition": 2,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 16,
+          "gridPosition": 4,
+          "finishPosition": 3,
+          "qualiPosition": 4,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 44,
+          "gridPosition": 7,
+          "finishPosition": 4,
+          "qualiPosition": 7,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 1,
+          "gridPosition": 6,
+          "finishPosition": 5,
+          "qualiPosition": 6,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 3,
+          "gridPosition": 20,
+          "finishPosition": 6,
+          "qualiPosition": null,
+          "fastestLap": true,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 87,
+          "gridPosition": 12,
+          "finishPosition": 7,
+          "qualiPosition": 12,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 41,
+          "gridPosition": 9,
+          "finishPosition": 8,
+          "qualiPosition": 9,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 5,
+          "gridPosition": 10,
+          "finishPosition": 9,
+          "qualiPosition": 10,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 10,
+          "gridPosition": 14,
+          "finishPosition": 10,
+          "qualiPosition": 14,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 31,
+          "gridPosition": 13,
+          "finishPosition": 11,
+          "qualiPosition": 13,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 23,
+          "gridPosition": 15,
+          "finishPosition": 12,
+          "qualiPosition": 15,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 30,
+          "gridPosition": 8,
+          "finishPosition": 13,
+          "qualiPosition": 8,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 43,
+          "gridPosition": 16,
+          "finishPosition": 14,
+          "qualiPosition": 16,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 55,
+          "gridPosition": 21,
+          "finishPosition": 15,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 11,
+          "gridPosition": 18,
+          "finishPosition": 16,
+          "qualiPosition": 18,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 18,
+          "gridPosition": 22,
+          "finishPosition": 17,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 14,
+          "gridPosition": 17,
+          "finishPosition": 18,
+          "qualiPosition": 17,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 77,
+          "gridPosition": 19,
+          "finishPosition": 19,
+          "qualiPosition": 19,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 6,
+          "gridPosition": 3,
+          "finishPosition": 20,
+          "qualiPosition": 3,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 81,
+          "gridPosition": 5,
+          "finishPosition": 21,
+          "qualiPosition": 5,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 27,
+          "gridPosition": 11,
+          "finishPosition": 22,
+          "qualiPosition": 11,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 2,
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "country": "China",
+      "locality": "Shanghai",
+      "hasSprint": true,
+      "results": [
+        {
+          "driverNumber": 12,
+          "gridPosition": 1,
+          "finishPosition": 1,
+          "qualiPosition": 1,
+          "fastestLap": true,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 63,
+          "gridPosition": 2,
+          "finishPosition": 2,
+          "qualiPosition": 2,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 44,
+          "gridPosition": 3,
+          "finishPosition": 3,
+          "qualiPosition": 3,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 16,
+          "gridPosition": 4,
+          "finishPosition": 4,
+          "qualiPosition": 4,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 87,
+          "gridPosition": 10,
+          "finishPosition": 5,
+          "qualiPosition": 10,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 10,
+          "gridPosition": 7,
+          "finishPosition": 6,
+          "qualiPosition": 7,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 30,
+          "gridPosition": 14,
+          "finishPosition": 7,
+          "qualiPosition": 14,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 6,
+          "gridPosition": 9,
+          "finishPosition": 8,
+          "qualiPosition": 9,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 55,
+          "gridPosition": 17,
+          "finishPosition": 9,
+          "qualiPosition": 17,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 43,
+          "gridPosition": 12,
+          "finishPosition": 10,
+          "qualiPosition": 12,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 27,
+          "gridPosition": 11,
+          "finishPosition": 11,
+          "qualiPosition": 11,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 41,
+          "gridPosition": 15,
+          "finishPosition": 12,
+          "qualiPosition": 15,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 77,
+          "gridPosition": 19,
+          "finishPosition": 13,
+          "qualiPosition": 20,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 31,
+          "gridPosition": 13,
+          "finishPosition": 14,
+          "qualiPosition": 13,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 11,
+          "gridPosition": 21,
+          "finishPosition": 15,
+          "qualiPosition": 22,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 3,
+          "gridPosition": 8,
+          "finishPosition": 16,
+          "qualiPosition": 8,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 14,
+          "gridPosition": 18,
+          "finishPosition": 17,
+          "qualiPosition": 19,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 18,
+          "gridPosition": 20,
+          "finishPosition": 18,
+          "qualiPosition": 21,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 81,
+          "gridPosition": 5,
+          "finishPosition": 19,
+          "qualiPosition": 5,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 1,
+          "gridPosition": 6,
+          "finishPosition": 20,
+          "qualiPosition": 6,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 5,
+          "gridPosition": 16,
+          "finishPosition": 21,
+          "qualiPosition": 16,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 23,
+          "gridPosition": 22,
+          "finishPosition": 22,
+          "qualiPosition": 18,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        }
+      ],
+      "sprintResults": [
+        {
+          "driverNumber": 63,
+          "gridPosition": 1,
+          "finishPosition": 1,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 16,
+          "gridPosition": 6,
+          "finishPosition": 2,
+          "qualiPosition": null,
+          "fastestLap": true,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 44,
+          "gridPosition": 4,
+          "finishPosition": 3,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 1,
+          "gridPosition": 3,
+          "finishPosition": 4,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 12,
+          "gridPosition": 2,
+          "finishPosition": 5,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 81,
+          "gridPosition": 5,
+          "finishPosition": 6,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 30,
+          "gridPosition": 13,
+          "finishPosition": 7,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 87,
+          "gridPosition": 9,
+          "finishPosition": 8,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 3,
+          "gridPosition": 8,
+          "finishPosition": 9,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 31,
+          "gridPosition": 12,
+          "finishPosition": 10,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 10,
+          "gridPosition": 7,
+          "finishPosition": 11,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 55,
+          "gridPosition": 17,
+          "finishPosition": 12,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 5,
+          "gridPosition": 14,
+          "finishPosition": 13,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 43,
+          "gridPosition": 16,
+          "finishPosition": 14,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 6,
+          "gridPosition": 10,
+          "finishPosition": 15,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 23,
+          "gridPosition": 22,
+          "finishPosition": 16,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 14,
+          "gridPosition": 18,
+          "finishPosition": 17,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 18,
+          "gridPosition": 19,
+          "finishPosition": 18,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 11,
+          "gridPosition": 21,
+          "finishPosition": 19,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 27,
+          "gridPosition": 11,
+          "finishPosition": 20,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 77,
+          "gridPosition": 20,
+          "finishPosition": 21,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 41,
+          "gridPosition": 15,
+          "finishPosition": 22,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "country": "Japan",
+      "locality": "Suzuka",
+      "hasSprint": false,
+      "results": [
+        {
+          "driverNumber": 12,
+          "gridPosition": 1,
+          "finishPosition": 1,
+          "qualiPosition": 1,
+          "fastestLap": true,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 81,
+          "gridPosition": 3,
+          "finishPosition": 2,
+          "qualiPosition": 3,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 16,
+          "gridPosition": 4,
+          "finishPosition": 3,
+          "qualiPosition": 4,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 63,
+          "gridPosition": 2,
+          "finishPosition": 4,
+          "qualiPosition": 2,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 1,
+          "gridPosition": 5,
+          "finishPosition": 5,
+          "qualiPosition": 5,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 44,
+          "gridPosition": 6,
+          "finishPosition": 6,
+          "qualiPosition": 6,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 10,
+          "gridPosition": 7,
+          "finishPosition": 7,
+          "qualiPosition": 7,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 3,
+          "gridPosition": 11,
+          "finishPosition": 8,
+          "qualiPosition": 11,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 30,
+          "gridPosition": 14,
+          "finishPosition": 9,
+          "qualiPosition": 14,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 31,
+          "gridPosition": 12,
+          "finishPosition": 10,
+          "qualiPosition": 12,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 27,
+          "gridPosition": 13,
+          "finishPosition": 11,
+          "qualiPosition": 13,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 6,
+          "gridPosition": 8,
+          "finishPosition": 12,
+          "qualiPosition": 8,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 5,
+          "gridPosition": 9,
+          "finishPosition": 13,
+          "qualiPosition": 9,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 41,
+          "gridPosition": 10,
+          "finishPosition": 14,
+          "qualiPosition": 10,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 55,
+          "gridPosition": 16,
+          "finishPosition": 15,
+          "qualiPosition": 16,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 43,
+          "gridPosition": 15,
+          "finishPosition": 16,
+          "qualiPosition": 15,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 11,
+          "gridPosition": 19,
+          "finishPosition": 17,
+          "qualiPosition": 19,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 14,
+          "gridPosition": 21,
+          "finishPosition": 18,
+          "qualiPosition": 21,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 77,
+          "gridPosition": 20,
+          "finishPosition": 19,
+          "qualiPosition": 20,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 23,
+          "gridPosition": 17,
+          "finishPosition": 20,
+          "qualiPosition": 17,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 18,
+          "gridPosition": 22,
+          "finishPosition": 21,
+          "qualiPosition": 22,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 87,
+          "gridPosition": 18,
+          "finishPosition": 22,
+          "qualiPosition": 18,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 4,
+      "raceName": "Miami Grand Prix",
+      "date": "2026-05-03",
+      "country": "USA",
+      "locality": "Miami",
+      "hasSprint": true,
+      "results": [
+        {
+          "driverNumber": 12,
+          "gridPosition": 1,
+          "finishPosition": 1,
+          "qualiPosition": 1,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 1,
+          "gridPosition": 4,
+          "finishPosition": 2,
+          "qualiPosition": 4,
+          "fastestLap": true,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 81,
+          "gridPosition": 7,
+          "finishPosition": 3,
+          "qualiPosition": 7,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 63,
+          "gridPosition": 5,
+          "finishPosition": 4,
+          "qualiPosition": 5,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 3,
+          "gridPosition": 2,
+          "finishPosition": 5,
+          "qualiPosition": 2,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 44,
+          "gridPosition": 6,
+          "finishPosition": 6,
+          "qualiPosition": 6,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 43,
+          "gridPosition": 8,
+          "finishPosition": 7,
+          "qualiPosition": 8,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 16,
+          "gridPosition": 3,
+          "finishPosition": 8,
+          "qualiPosition": 3,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 55,
+          "gridPosition": 13,
+          "finishPosition": 9,
+          "qualiPosition": 13,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 23,
+          "gridPosition": 15,
+          "finishPosition": 10,
+          "qualiPosition": 15,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 87,
+          "gridPosition": 12,
+          "finishPosition": 11,
+          "qualiPosition": 12,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 5,
+          "gridPosition": 21,
+          "finishPosition": 12,
+          "qualiPosition": 21,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 31,
+          "gridPosition": 14,
+          "finishPosition": 13,
+          "qualiPosition": 14,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 41,
+          "gridPosition": 16,
+          "finishPosition": 14,
+          "qualiPosition": 16,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 14,
+          "gridPosition": 17,
+          "finishPosition": 15,
+          "qualiPosition": 17,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 11,
+          "gridPosition": 20,
+          "finishPosition": 16,
+          "qualiPosition": 20,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 18,
+          "gridPosition": 18,
+          "finishPosition": 17,
+          "qualiPosition": 18,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 77,
+          "gridPosition": 19,
+          "finishPosition": 18,
+          "qualiPosition": 19,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 27,
+          "gridPosition": 10,
+          "finishPosition": 19,
+          "qualiPosition": 10,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 30,
+          "gridPosition": 11,
+          "finishPosition": 20,
+          "qualiPosition": 11,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 10,
+          "gridPosition": 9,
+          "finishPosition": 21,
+          "qualiPosition": 9,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 6,
+          "gridPosition": 22,
+          "finishPosition": 22,
+          "qualiPosition": 22,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        }
+      ],
+      "sprintResults": [
+        {
+          "driverNumber": 1,
+          "gridPosition": 1,
+          "finishPosition": 1,
+          "qualiPosition": null,
+          "fastestLap": true,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 81,
+          "gridPosition": 3,
+          "finishPosition": 2,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 16,
+          "gridPosition": 4,
+          "finishPosition": 3,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 63,
+          "gridPosition": 6,
+          "finishPosition": 4,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 3,
+          "gridPosition": 5,
+          "finishPosition": 5,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 12,
+          "gridPosition": 2,
+          "finishPosition": 6,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 44,
+          "gridPosition": 7,
+          "finishPosition": 7,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 10,
+          "gridPosition": 10,
+          "finishPosition": 8,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 6,
+          "gridPosition": 9,
+          "finishPosition": 9,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 43,
+          "gridPosition": 8,
+          "finishPosition": 10,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 31,
+          "gridPosition": 16,
+          "finishPosition": 11,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 87,
+          "gridPosition": 13,
+          "finishPosition": 12,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 55,
+          "gridPosition": 14,
+          "finishPosition": 13,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 30,
+          "gridPosition": 15,
+          "finishPosition": 14,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 14,
+          "gridPosition": 20,
+          "finishPosition": 15,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 11,
+          "gridPosition": 17,
+          "finishPosition": 16,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 18,
+          "gridPosition": 21,
+          "finishPosition": 17,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 23,
+          "gridPosition": 18,
+          "finishPosition": 18,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 77,
+          "gridPosition": 19,
+          "finishPosition": 19,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "finished"
+        },
+        {
+          "driverNumber": 27,
+          "gridPosition": 12,
+          "finishPosition": 20,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 41,
+          "gridPosition": 22,
+          "finishPosition": 21,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dnf"
+        },
+        {
+          "driverNumber": 5,
+          "gridPosition": 11,
+          "finishPosition": 22,
+          "qualiPosition": null,
+          "fastestLap": false,
+          "dotd": false,
+          "status": "dsq"
+        }
+      ]
+    }
+  ]
+}
